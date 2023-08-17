@@ -1,2 +1,8 @@
 # Ignore all settings files
 *.cfg
+
+# Pycache
+**/__pycache__/**
+
+# Environment
+fe/env/**
