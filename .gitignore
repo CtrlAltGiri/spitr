@@ -2,7 +2,10 @@
 *.cfg
 
 # Pycache
+*.pyc
 **/__pycache__/**
+**/.pytest_cache/**
 
 # Environment
 fe/env/**
+fe/.venv/**
